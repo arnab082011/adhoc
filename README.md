@@ -1,0 +1,4 @@
+adhoc
+=====
+
+some adhoc repos
